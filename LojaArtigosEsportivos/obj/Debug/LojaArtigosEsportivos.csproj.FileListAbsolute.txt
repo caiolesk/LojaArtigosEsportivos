@@ -1,0 +1,841 @@
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\C#\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Diego\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\Pim.5.3\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\dev\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\LojaArtigosEsportivos2\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\bruno\Documents\Faculdade\3º semestre\PIM 3º semestre\Sistema\7.1-Loja-Artigos-Esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Diego\Desktop\Loja-de-artigos-esportivos-ca18c4dc0260137141ed4d62d05ec829a0552df8\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\new Pim w-Categoria\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Form1.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojResolveAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\Caio\Desktop\dev\Loja-de-artigos-esportivos\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaClientesDoMes.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaClientesDoMes.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaDevolucao.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaDevolveProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaDevolucao.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaClientesDoMes.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaDevolveProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\EnvDTE.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\stdole.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioProduto.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\EnvDTE.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\stdole.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\MySql.Data.xml
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaDevolucao.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaClientesDoMes.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaDevolveProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioProduto.resources
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\Caio\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\EnvDTE.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\stdole.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioProduto.resources
+C:\Users\Caio\Desktop\dev\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioVenda.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe.config
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\EnvDTE.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\stdole.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\Microsoft.MSXML.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csprojAssemblyReference.cache
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaDevolucao.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Ajuda.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.AlterarProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCategoria.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.CadastroDeProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCategoria.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaUsuario.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizaCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.LocalizarFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaLogin.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorio.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaFornecedor.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.menuForm.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Properties.Resources.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaCliente.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.NovaVenda.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaVenda.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaClientesDoMes.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaDevolveProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioProduto.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioVenda.resources
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.GenerateResource.cache
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CoreCompileInputs.cache
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.csproj.CopyComplete
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.exe
+C:\Users\caio.cavallari\Desktop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.pdb
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.TelaRelatorioVenda.resources
+C:\Users\caio.cavallari\Desktop\develop\LojaCaio\LojaArtigosEsportivos\LojaArtigosEsportivos\obj\Debug\LojaArtigosEsportivos.Form1.resources
